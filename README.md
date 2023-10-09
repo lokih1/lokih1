@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hello!</h1>
+    <h1>Hi!</h1>
 </div>
 <h4 align="center">I'm Raphael and I'm learning Full-stack developer</div>
  <div align="center">
