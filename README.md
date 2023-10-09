@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Hello!</h1>
 </div>
-<h4 align="center">I'm Raphael and I'm learning Front-end and Back-end developer</div>
+<h4 align="center">I'm Raphael and I'm learning Full-stack developer</div>
  <div align="center">
      <div style="display: inline_block"><br>
 	  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
